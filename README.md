@@ -29,6 +29,6 @@ All visualizations are saved in `/outputs/` folder:
 ## 📄 Report:-
 The full report of insights and visualizations is included in"C:\Users\HP\Downloads\# 🌍 Task 01 Population Data Visualization – Credora Internship (1).pdf"
 ## 🔗 Live Notebook:-
-You can try the notebook live on Google Colab [[here]https://colab.research.google.com/drive/1Q3R6MW8q9O2f0Gxkuf4bMFpi8HCBI8me?usp=sharing
+You can try the notebook live on Google Colab [[https://colab.research.google.com/drive/1Lce10R2xgxy88SljX12oxJd0vFuVysvy?usp=sharing]
 ## 👨‍💻 Author:-
 * **Alamuru Venkata Harshitha** – Data Science Intern @ Credora
